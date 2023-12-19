@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.card {
+    @apply absolute text-sm font-bold uppercase rounded-full p-2 top-0 bg-slate-600 ml-2 mt-2
+}

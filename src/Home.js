@@ -5,7 +5,7 @@ function Home() {
     return (
         <div className='Home'>
             <div className='body font-serif:Georgia bg-slate-500'>
-                <div>
+                <div className=''>
                     <nav>
                         <div className="mr-6">
                             <h1 className='font-bold uppercase ml-4 border-b-2 border-gray-500'>
